@@ -4,3 +4,4 @@ function average(numbers) {
 }
 
 module.exports = {average};
+//oj
